@@ -1,0 +1,27 @@
+
+car1.png
+size: 1269,596
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 4
+  rotate: false
+  xy: 2, 52
+  size: 968, 542
+  orig: 970, 544
+  offset: 1, 1
+  index: -1
+Layer 6
+  rotate: false
+  xy: 972, 299
+  size: 295, 295
+  orig: 297, 297
+  offset: 1, 1
+  index: -1
+Layer 6 copy
+  rotate: false
+  xy: 972, 2
+  size: 295, 295
+  orig: 297, 297
+  offset: 1, 1
+  index: -1
